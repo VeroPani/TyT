@@ -1,0 +1,15 @@
+.header{
+    position: relative;
+    >img{
+        width: 100%;
+    >h1{
+        position: absolute;
+        transform: translate(-30%, -70%);
+        top: 50%;
+        left: 30%;
+        width: 50%;
+        text-align: left;
+        font-size:  40px; ;
+    }
+    }
+}
